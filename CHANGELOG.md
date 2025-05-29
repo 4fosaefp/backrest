@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.9.0](https://github.com/garethgeorge/backrest/compare/v1.8.1...v1.9.0) (2025-05-29)
+
+
+### Features
+
+* add support for block kit slack body ([#774](https://github.com/garethgeorge/backrest/issues/774)) ([9a4e0c5](https://github.com/garethgeorge/backrest/commit/9a4e0c5c74c5cdfa3ac4d78d910fcf061f560e4c))
+
+
+### Bug Fixes
+
+* missing KeepLastN in scheduled retention policy ([#778](https://github.com/garethgeorge/backrest/issues/778)) ([1a9bed2](https://github.com/garethgeorge/backrest/commit/1a9bed21e2b543908dffb705d4a56d0a6b64c4fa))
+
 ## [1.8.1](https://github.com/garethgeorge/backrest/compare/v1.8.0...v1.8.1) (2025-05-06)
 
 
